@@ -1,0 +1,25 @@
+#insta{
+    color: rgb(152, 7, 152);
+}
+#youtube{
+    color: red;
+}
+#whatsapp{
+    color: rgb(7, 244, 7);
+}
+#facebook{
+    color: blue;
+}
+
+#insta:hover{
+    color: black;
+}
+#youtube:hover{
+    color: black;
+}
+#whatsapp:hover{
+    color: black;
+}
+#facebook:hover{
+    color: black;
+}
