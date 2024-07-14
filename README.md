@@ -1,6 +1,6 @@
 ﻿# video-conferencing-app 🎥🔉
 Video Conferenceing Application is an open-source application built using modern web technologies. It allows users to host and join virtual meetings, collaborate, and communicate seamlessly.
-# Features
+# Features 😎👌
 + Real-time video and audio communication
 + Screen sharing
 + chat functionality
